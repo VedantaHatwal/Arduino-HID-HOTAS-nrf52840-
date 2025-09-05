@@ -23,5 +23,6 @@ when 3d printed some parts are really weak , u will see in the fusion file there
 
 imu why?   components of acceleration as in if gravity =  (0,0,1) when rotated components of g will give angle arctan is used , if u think about it a little its smart . if u think about it too much there are problems. 
 if roll 90 degress then pitch , pitch is not measured because local rotation plus stuff i dont wanna do math, my code is kinda linear maybe..........
+it was cheap and i had 1
 
 will make this better 
